@@ -21,7 +21,7 @@ and upload this file as README.md.
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/madhumitha-k">
+  <a href="www.linkedin.com/in/madhumitha-k-6bb72a211">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:harithakrishnan3j@gmail.com">
