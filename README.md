@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner.png" alt="Madhumitha K. — Technical Coordinator, Educator, Developer and AI Enthusiast" width="100%" />
+<img src="profile-banner.png" alt="Madhumitha K. — Technical Coordinator, Educator, Developer and AI Enthusiast" width="100%" />
 
 </div>
 
